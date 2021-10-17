@@ -934,7 +934,7 @@
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.0.0</version>
         </plugin>
-		<plugin>
+	<plugin>
           <groupId>edu.illinois.cs</groupId>
           <artifactId>testrunner-maven-plugin</artifactId>
           <version>1.2</version>
